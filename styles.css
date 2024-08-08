@@ -28,3 +28,7 @@ h1 {
     text-align: center;
     text-shadow: rgb(255, 255, 255) 10px;
 }
+.link-button:hover{
+    background-color: #2980b9; 
+}
+
