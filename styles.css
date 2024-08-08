@@ -17,14 +17,3 @@ body {
     border-radius: 5px;
     box-shadow: 2px 3px #888888;
 }
-
-#mi-div{
-    position: absolute;
-    
-    top: 50%;
-    
-    left: 50%;
-    
-    transform: translate(-50%, -50%);
-    
-    }
